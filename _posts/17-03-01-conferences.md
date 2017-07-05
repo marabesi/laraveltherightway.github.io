@@ -3,7 +3,7 @@ isChild: true
 anchor:  conferences
 ---
 
-## Conferences {#conferences_title}
+## Eventos {#conferences_title}
 
 * [http://laracon.us][us-url]
 * [http://laracon.eu][eu-url]

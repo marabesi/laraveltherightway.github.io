@@ -3,7 +3,7 @@ isChild: true
 anchor:  components
 ---
 
-## Components {#components_title}
+## Componentes {#components_title}
 
 Illuminate components which can be found in
 https://github.com/illuminate
