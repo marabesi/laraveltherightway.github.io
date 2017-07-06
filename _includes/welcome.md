@@ -1,4 +1,4 @@
-# Welcome
+# Bem vindo
 
 _Disclaimer: Majority of the assets, design and format of this site is borrowed (forked might be the more better term) from the original [PHP : The Right Way](http://www.phptherightway.com/) site. The [original contributors](https://github.com/codeguy/php-the-right-way/graphs/contributors) is given all the credits due to them._
 
@@ -8,7 +8,7 @@ Laravel Framework is not strict on how and where you define your classes as long
 
 This is a living document and will continue to be updated with more helpful information and examples as they become available.
 
-## Translations
+## Traduções
 
 Laravel: The Best Practices is currently available in the following languages. Please contribute to the project so that it could support multiple languages.
 

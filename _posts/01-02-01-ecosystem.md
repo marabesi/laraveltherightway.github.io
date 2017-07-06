@@ -4,7 +4,7 @@ isChild: true
 anchor:  the-ecosystem
 ---
 
-## The Ecosystem {#the_ecosystem}
+## O ecossistema {#the_ecosystem}
 
 At the very minimum, you need to know how to use [Git](https://git-scm.com/) and [Composer](https://getcomposer.org/). Though not required, it is better that you have an account on [GitHub.com](https://github.com/) as it is where all the code and its' dependencies are hosted.
 

@@ -2,7 +2,7 @@
 anchor: configuration
 ---
 
-# Configuration {#configuration_title}
+# Configurações {#configuration_title}
 
 Always make sure your application key is set. This is the APP_KEY variable in your .env file. You can generate one via 
 
