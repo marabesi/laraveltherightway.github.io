@@ -4,9 +4,9 @@ isChild: true
 anchor:  right-database-choice
 ---
 
-## Choose right database for the job at hand. {#right-database-choice}
+## Escolha o banco de dados correto. {#right-database-choice}
 
-Eloquent can support multiple databases for a reason - don't limit yourself to MySQL.
+Eloquent dá suporte a múltiplos banco de dados por uma razão - não se limite a usar somente MySQL.
 
  Use [MongoDB](https://github.com/jenssegers/Laravel-MongoDB) for records that have attributes that vary a lot. For example, in an inventory system, an office supplies product might have a different set of fields compared to vehicle and auto supplies.
 

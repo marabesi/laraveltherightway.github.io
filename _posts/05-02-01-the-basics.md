@@ -3,7 +3,7 @@ isChild: true
 anchor:  the_basics
 ---
 
-## The Basics {#the_basics_title}
+## O básico {#the_basics_title}
 
 Laravel has tons of features which might be overwhelming at first. 
 

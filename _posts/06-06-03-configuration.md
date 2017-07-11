@@ -4,19 +4,19 @@ anchor: configuration
 
 # Configurações {#configuration_title}
 
-Always make sure your application key is set. This is the APP_KEY variable in your .env file. You can generate one via 
+Sempre tenha certeza que a chave da sua aplicação está configurada. A chave é definida na constante `APP_KEY` no arquivo `.env`. Você pode gerar uma automaticamente com o comando:
 
 ```
 php artisan key:generate
 ```
 
 
-Always give your application a name. That is, instead of using the default _App_ root namespace given by Laravel install, set it to what the application is all about. This can be set via 
+Sempre defina o nome da sua aplicação. Ou seja, em vez de utilizar o namespace padrão _App_, defina um namespace que faça sentido para a aplicação. Isso pode ser feito através do comando:
 
 ```
-php artisan app:name YourAppName
+php artisan app:name NomeDaSuaAplicacao
 ```
 
-This makes your controllers/models etc resolve into YourAppName\Controllers and YourAppName\Models.
+Isso faz com que os controllers/models usem o namespace NomeDaSuaAplicacao\Controllers e NomeDaSuaAplicacao\Models.
 
-Use .env files to store any secure information and retrieve it via getenv function. These should be no instance on which you will put it inside models/controllers and commit it to Git.
+Use o arquivo `.env` para armazenar qualquer informação importante e acesse esses valores através da função `getenv`. Não use os seus models/controllers para armazenar essas informações e commita-las no Git.

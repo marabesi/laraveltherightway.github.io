@@ -2,7 +2,7 @@
 anchor: code_style_guide
 ---
 
-# Code Style Guide {#code_style_guide_title}
+# Guia de estilo de código {#code_style_guide_title}
 
 The Laravel framework itself doesn't impose standards on how you should name your variables or where to put files. As long as it can be loaded by Composer, it will technically run inside the application. However, developers are encouraged to study and follow the following PSR standards:
 
