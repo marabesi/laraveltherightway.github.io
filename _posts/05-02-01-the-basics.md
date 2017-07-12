@@ -5,9 +5,9 @@ anchor:  the_basics
 
 ## O básico {#the_basics_title}
 
-Laravel has tons of features which might be overwhelming at first. 
+Laravel possui milhões de funcionalidades que parecem sem fim.
 
-Here are some articles and resources that may be useful to get on the same page with Laravel.
+Veja alguns artigos e fontes que podem ser ajudar a entender o mundo do Laravel.
 
 * [Composer: Part 1 – What & Why?][li1]
 * [Why use an autoloader? why just don't require the files?][li2]
