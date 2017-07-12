@@ -4,7 +4,7 @@ isChild: true
 anchor:  db_alterations
 ---
 
-## Changing tables, index or inserting sample data. {#db_alterations}
+## Alterando tabelas, índice ou inserindo dados. {#db_alterations}
 
 DON'T create tables or index directly via PHPMyAdmin or console. Use [database migration](https://laravel.com/docs/5.2/migrations#writing-migrations) to create table, add/alter any fields, and commit those to Git repository. 
 

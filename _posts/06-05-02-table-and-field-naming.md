@@ -4,7 +4,7 @@ isChild: true
 anchor:  table_and_field_naming
 ---
 
-## Table and field naming {#table_and_field_naming_title}
+## Tabelas e nomenclatura de campos {#table_and_field_naming_title}
 
 Table and field names MUST be lowercase and use [Snake Case](https://en.wikipedia.org/wiki/Snake_case).
 

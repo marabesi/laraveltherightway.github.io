@@ -2,10 +2,10 @@
 anchor: database_conventions
 ---
 
-# Database Conventions {#database_conventions_title}
+# Convensões de banco de dados {#database_conventions_title}
 
 
-### Eloquent can support multiple Database for a reason - Don't limit yourself to MySQL.
+### Eloquent suporta multiplos bancos de dados por um motivo - Não se limite a usar somente MySQL.
 
  Use [MongoDB](https://github.com/jenssegers/Laravel-MongoDB) for records that have attributes that vary a lot. For example, in an inventory system, an office supplies product might have a different set of fields compared to vehicle and auto supplies.
 

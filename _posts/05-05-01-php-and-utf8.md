@@ -6,7 +6,7 @@ anchor:  php_and_utf8
 
 ## Working with UTF-8 {#php_and_utf8_title}
 
-Laravel uses the [patchwork/utf8][patchwork] for most of its UT8-related stuff. It is required that all developers understands the following concepts:
+Laravel utiliza a biblioteca [patchwork/utf8][patchwork] para tratar questões relacionadas ao UTF8. Caso você não entenda sobre UTF8 veja os links a seguir
 
 * [Character Sets / Character Encoding Issues][li-1]
 * [Handling UTF-8 with PHP][li-2]
